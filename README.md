@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ketan243
+- 👋 Hi, I’m Ketan Bhenwal 'A nerd developer'
 - 👀 I’m interested in Web and Android developement
 - 🌱 Completed MERN stack course from Coursera
 - 💞️ I’m open to collaborate on Android App Development
